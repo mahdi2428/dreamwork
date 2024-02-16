@@ -1,0 +1,10 @@
+.input1 input:focus ~ label ,
+.input1 input:valid ~ label{
+    transform: translateY(-14px);
+    color: #3b82f6;
+    
+}
+
+.check{
+    border-radius: 100%;
+}

@@ -1,0 +1,17 @@
+.subsbcriber::after{
+content: '';
+width: 3vw;
+background-color: white;
+rotate: -45deg;
+margin-left: -16px;
+margin-bottom: 17px;
+
+}
+.subsbcriber::before{
+    content: '';
+    width: 3vw;
+    background-color: white;
+    rotate: 45deg;
+    margin-right: -16px;
+    margin-bottom: 17px;
+}
